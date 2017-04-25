@@ -9,6 +9,7 @@
 		{"name": "Jeemu", "email": "zhoulin1359@qq.com"}
 	],
 	"require": {
+		"php": ">=5.4.0"
 	},
 	"suggest": {
 	},
