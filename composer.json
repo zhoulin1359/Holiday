@@ -1,5 +1,5 @@
 {
-	"name": "Jeemu/Holiday",
+	"name": "jeemu/holiday",
 	"type": "framework",
 	"description": "php判断日期是否是节假日",
 	"keywords": ["holiday", "workday", "节假日", "工作日"],
